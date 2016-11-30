@@ -1,8 +1,9 @@
 h1 {
-      background: url("http://www.hesca.org/wp-content/uploads/2016/08/banana.jpg");
-      text-align: center;
-      background-size: cover;
-      font-size: 250%;
+  background: url("http://i.imgur.com/4PC1oo9.jpg");
+  text-align: center;
+  background-size: cover;
+  font-size: 250%;
+  color: white;
   }
 ul{
   list-style-type: none;
